@@ -1,6 +1,6 @@
 Name:		texlive-cmupint
 Version:	54735
-Release:	1
+Release:	2
 Summary:	Upright integral symbols for Computer Modern
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cmupint
