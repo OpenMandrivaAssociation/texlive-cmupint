@@ -3,7 +3,7 @@ Version:	54735
 Release:	2
 Summary:	Upright integral symbols for Computer Modern
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cmupint
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cmupint
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cmupint.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cmupint.doc.r%{version}.tar.xz
